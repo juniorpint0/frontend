@@ -1,0 +1,16 @@
+.sidenav{
+    background-color: #3f51b5;
+    width: 200px; /* Espaçamento do menu*/
+}
+
+.sidenav a{
+    color: #fff; /*cor das letras no menu*/
+
+}
+.sidenav i{
+    padding-right: 10px; /*espaçamento do icone para a descrição*/
+}
+.content {
+    padding: 16px;
+    background-color: #fff ;
+}
